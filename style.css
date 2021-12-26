@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+
+.line{
+    background-color: blue;
+    width: 200px;
+    height: 10px;
+    margin: auto;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    padding: 6px;
+}
+h3{
+    display: inline;
+}
